@@ -1,3 +1,4 @@
+# We use the git classroom after this : https://classroom.github.com/classrooms/146010777-ir-csgen8-classroom-0849ba
 # CSGen8DS-Information-Retrieval
 Hi Students,
 
